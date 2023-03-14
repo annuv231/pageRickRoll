@@ -1,4 +1,4 @@
-const image = "https://media.tenor.com/nBt6RZkFJh8AAAAi/never-gonna.gif";
+const image = "https://media.tenor.com/PehuVp_jAjUAAAAC/popular-controversial.gif";
 
 setInterval(() => {
   const images = document.getElementsByTagName("img");
